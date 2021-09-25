@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+I'm a junior researcher in «Wide-Bandgap Semiconductor Materials and Devices Lab» in NUST MISIS. My work is research in the field of Wide-Bandgap semiconductors (Ga2O3, GaN, etc), so we publish some stuff. At the present day, I'm a first-year PhD student in Semiconductor Physics, and here stored some of the repositories I use in my work process. 
+
+### 
+
 
 <!--
 **nocliper/nocliper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
