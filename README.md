@@ -1,5 +1,5 @@
 ### 👋 Hi
-I'm a junior researcher in «Wide-Bandgap Semiconductor Materials and Devices Lab» in NUST MISIS. My work is exploration in the field of Wide-Bandgap semiconductors (Ga<sub>2</sub>O<sub>3</sub>, GaN, etc), so we publish some [stuff](https://publons.com/researcher/3615506/anton-vasilev/). 
+I'm a junior researcher in «Wide-Bandgap Semiconductor Materials and Devices Lab» in NUST MISIS. My work is study in the field of Wide-Bandgap semiconductors (Ga<sub>2</sub>O<sub>3</sub>, GaN, etc), so we publish some [stuff](https://publons.com/researcher/3615506/anton-vasilev/). 
 At the present day, I'm a first-year PhD student in Semiconductor Physics, and here stored some of the repositories I use in my work. 
 
 ### 🔬 Projects 
