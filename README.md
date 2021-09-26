@@ -1,16 +1,21 @@
 ### 👋 Hi
-I'm a junior researcher in «Wide-Bandgap Semiconductor Materials and Devices Lab» in NUST MISIS. My work is research in the field of Wide-Bandgap semiconductors (Ga<sub>2</sub>O<sub>3</sub>, GaN, etc), so we publish some [stuff](https://publons.com/researcher/3615506/anton-vasilev/). At the present day, I'm a first-year PhD student in Semiconductor Physics, and here stored some of the repositories I use in my work. 
+I'm a junior researcher in «Wide-Bandgap Semiconductor Materials and Devices Lab» in NUST MISIS. My work is research in the field of Wide-Bandgap semiconductors (Ga<sub>2</sub>O<sub>3</sub>, GaN, etc), so we publish some [stuff](https://publons.com/researcher/3615506/anton-vasilev/). 
+At the present day, I'm a first-year PhD student in Semiconductor Physics, and here stored some of the repositories I use in my work. 
 
 ### 🔬 Projects 
 
 #### [nocliper/dlts](https://github.com/nocliper/dlts)
+Deep Level Transient Spectroscopy (DLTS) – a powerful and sensitive technique developed by D. Lang in 1974 and it gives us information about deep levels in a bandgap of the tested material. Since [DUT](https://en.wikipedia.org/wiki/Device_under_test) is repeatedly biasing between two states and capacitance transient is recorded at different temperatures we have enough info to determine trap concentration, capture crosssection and activation energy.
 
 #### [nocliper/ilt](https://github.com/nocliper/ilt)
+The main drawback of the classic DLTS technique is its low resolution of close-spaced traps. In classic DLTS trap is seen as wide peak, and there is a superposition of two or three of them, then we cant deconvolute and extract data accurately.
+So instead of using the time-window concept in DLTS in Laplace DLTS regularisation is imposed. This approach makes Laplace DLTS much sensitive to noise compared to classic DLTS, but it gives a huge advantage in peak resolution and parameters extraction. 
 
 #### [nocliper/ebic](https://github.com/nocliper/ebic)
+...
 
 #### [nocliper/dbr](https://github.com/nocliper/dbr)
-
+...
 
 <!--
 **nocliper/nocliper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
