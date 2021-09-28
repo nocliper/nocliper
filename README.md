@@ -4,10 +4,9 @@ At the present day I'm a first-year PhD student in Semiconductor Physics, and he
 
 ### 🔬 Projects 
 
-* [nocliper/dlts](https://github.com/nocliper/dlts) – Deep Level Transient Spectroscopy (DLTS) – a powerful and sensitive technique developed by D. Lang in 1974 and it gives us information about deep levels in a bandgap of the tested material. Since [DUT](https://en.wikipedia.org/wiki/Device_under_test) is repeatedly biasing between two states and capacitance transient is recorded at different temperatures we have enough info to determine trap concentration, capture crosssection and activation energy.
+* [nocliper/dlts](https://github.com/nocliper/dlts) – Deep Level Transient Spectroscopy (DLTS) – a powerful and sensitive technique developed by D. Lang in 1974 it gives us information about deep levels in a bandgap of the tested material. Since [DUT](https://en.wikipedia.org/wiki/Device_under_test) is repeatedly biasing between two states and capacitance transient is recorded at different temperatures we have enough info to determine trap concentration, capture crosssection and activation energy.
 
-* [nocliper/ilt](https://github.com/nocliper/ilt) – The main drawback of the classic DLTS technique is its low resolution of close-spaced traps. In classic DLTS trap is seen as wide peak, and there is a superposition of two or three of them, then we cant deconvolute and extract data accurately.
-So instead of using the time-window concept in DLTS in Laplace DLTS regularisation is imposed. This approach makes Laplace DLTS much sensitive to noise compared to classic DLTS, but it gives a huge advantage in peak resolution and parameters extraction. 
+* [nocliper/ilt](https://github.com/nocliper/ilt) – The main drawback of the classic DLTS technique is its low resolution of close-spaced traps. In classic DLTS trap is seen as wide peak and if there is a superposition of two or three of them, we cant deconvolute and extract data accurately. So instead of using the DLTS time-window concept in Laplace DLTS regularisation is imposed. This approach makes Laplace DLTS much sensitive to noise compared to classic DLTS but it gives a huge advantage in peak resolution and parameters extraction. 
 
 * [nocliper/ebic](https://github.com/nocliper/ebic)
 ...
